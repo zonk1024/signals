@@ -1,4 +1,8 @@
 #!/usr/bin/env python
+'''
+  Just fire 'kill -USR1 <PID>' or 'kill -USR2 <PID>' at it.  It's simple.
+'''
+
 
 import signal
 import time
